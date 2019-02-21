@@ -3,7 +3,7 @@
 **_Ryan Bay_**<br>
 *Published works only, along with supporting material. Additional projects, code samples available by request.*<br><br>
 
-[**Paper**](https://github.com/ry4nb4y/DS-portfolio/blob/master/2009JD013741.pdf) describing an automated custom algorithm using speech-recognition techniques to synthesize paleoclimate records from a [laser scattering map](http://icecube.berkeley.edu/~bay/dustmap/) of South Pole ice.<br>
+[**Paper**](https://github.com/ry4nb4y/DS-portfolio/blob/master/2009JD013741.pdf) describing an automated custom algorithm using speech-recognition techniques to synthesize paleoclimate records from a [laser scattering map](http://icecube.berkeley.edu/~bay/dustmap/) of South Pole ice.
 
 <img src="https://github.com/ry4nb4y/DS-portfolio/blob/master/movie.gif" width="350"> <img src="https://github.com/ry4nb4y/DS-portfolio/blob/master/warp.png" width="480"><br><br>
 
