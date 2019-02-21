@@ -1,9 +1,9 @@
 ## Data Science Portfolio
 
 *Ryan Bay*
-
-**Published works only, along with supporting material.**  *Additional projects, code samples available by request.*
-
+<br>
+*Published works only, along with supporting material. Additional projects, code samples available by request.*
+<br>
 
 [**Paper**](https://github.com/ry4nb4y/DS-portfolio/blob/master/2009JD013741.pdf) giving a full description of an *automated custom algorithm using speech-recognition* techniques to synthesize paleoclimate records from a [laser scattering map](http://icecube.berkeley.edu/~bay/dustmap/) of South Pole ice.
 
