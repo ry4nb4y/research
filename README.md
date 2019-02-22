@@ -1,7 +1,7 @@
 ## Data Science Portfolio
 
 **_Ryan Bay_**<br>
-*Published works only, along with supporting material. Additional projects, code samples available by request.*<br><br>
+*Selected published works only, along with supporting material. Additional projects, code samples available by request.*<br>
 
 
 [**PhD thesis**](https://github.com/ry4nb4y/DS-portfolio/blob/master/bay_thesis.pdf) search of a supercomputer database for neutrinos arriving in correlation with extra-galactic explosions.  [**Paper**](https://arxiv.org/abs/1412.6510) describing an unbinned maximum likelihood analysis. [**Paper**](https://arxiv.org/abs/1803.05390) describing machine techniques for neutrino experiments.<br><br><br>
