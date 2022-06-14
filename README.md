@@ -5,7 +5,7 @@
 
 Inventor of the dust logger laser probe deployed throughout Antarctica and Greenland. [**Paper**](https://github.com/ry4nb4y/research/blob/master/papers/t13J068.pdf) explaining how the dust logger is used to map ancient records in deep ice sheets.
 
-High-sensitivity laser fluorescence detector as part of a flow-cytometry and genomic study of marine cyanobacteria evolution in ancient ice. [**Paper**](https://www.biogeosciences.net/9/3799/2012/
+High-sensitivity laser fluorescence detector as part of a flow-cytometry and genomic study of marine cyanobacteria evolution in ancient ice. (https://www.biogeosciences.net/9/3799/2012/
 
 [**Paper**](https://github.com/ry4nb4y/research/blob/master/papers/2009JD013741.pdf) describing an automated custom algorithm using speech-recognition techniques to synthesize paleoclimate records from a laser scattering map of South Pole ice.
 
