@@ -1,4 +1,4 @@
-## Data Science Portfolio
+## Research Portfolio
 
 **_Ryan Bay_**<br>
 *Selected published works only, along with supporting material. Additional projects, code samples available by request.*<br><br>
