@@ -3,9 +3,9 @@
 **_Ryan Bay_**<br>
 *Selected published works only, along with supporting material. Additional projects, code samples available by request.*<br><br>
 
-[**Paper**](https://github.com/ry4nb4y/DS-portfolio/blob/master/papers/t13J068.pdf) explaining how the dustlogger laser probe is used to [map dust](http://icecube.berkeley.edu/~bay/dustmap/) in deep ice sheets.
+Inventor of the dust logger laser prode employed throughout Antarctica and Greenland. [**Paper**](https://github.com/ry4nb4y/DS-portfolio/blob/master/papers/t13J068.pdf) explaining how the dust logger is used to map ancient records in deep ice sheets.
 
-Invented high-sensitivity laser fluorescence detector as part of a flow-cytometry and genomic study of marine cyanobacteria evolution in ancient ice. [**Paper**](https://www.biogeosciences.net/9/3799/2012/
+High-sensitivity laser fluorescence detector as part of a flow-cytometry and genomic study of marine cyanobacteria evolution in ancient ice. [**Paper**](https://www.biogeosciences.net/9/3799/2012/
 
 [**Paper**](https://github.com/ry4nb4y/DS-portfolio/blob/master/papers/2009JD013741.pdf) describing an automated custom algorithm using speech-recognition techniques to synthesize paleoclimate records from a [laser scattering map](http://icecube.berkeley.edu/~bay/dustmap/) of South Pole ice.
 
