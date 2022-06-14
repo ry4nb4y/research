@@ -3,7 +3,7 @@
 **_Ryan Bay_**<br>
 *Selected published works only, along with supporting material. Additional projects, code samples available by request.*<br><br>
 
-Inventor of the dust logger laser prode employed throughout Antarctica and Greenland. [**Paper**](https://github.com/ry4nb4y/DS-portfolio/blob/master/papers/t13J068.pdf) explaining how the dust logger is used to map ancient records in deep ice sheets.
+Inventor of the dust logger laser probe deployed throughout Antarctica and Greenland. [**Paper**](https://github.com/ry4nb4y/DS-portfolio/blob/master/papers/t13J068.pdf) explaining how the dust logger is used to map ancient records in deep ice sheets.
 
 High-sensitivity laser fluorescence detector as part of a flow-cytometry and genomic study of marine cyanobacteria evolution in ancient ice. [**Paper**](https://www.biogeosciences.net/9/3799/2012/
 
