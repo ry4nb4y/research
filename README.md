@@ -16,4 +16,5 @@ Monte Carlo simulation of photon propagation in heterogenous ice ([**cyl.c**](ht
  
 [**Paper**](https://github.com/ry4nb4y/research/blob/master/papers/Bipolar.correlation.PNAS.pdf) using original data and Monte Carlo methods to determine statistical significance of a correlation between volcanic eruptions and climate change over 70,000 years.
 
-[**PhD thesis**](https://github.com/ry4nb4y/research/blob/master/papers/bay_thesis.pdf) search of a supercomputer database for neutrinos arriving in correlation with extra-galactic explosions.  [**Paper**](https://arxiv.org/abs/1412.6510) describing an unbinned maximum likelihood analysis. [**Paper**](https://arxiv.org/abs/1803.05390) describing machine techniques for neutrino experiments.<br><br>
+[**PhD thesis**](https://github.com/ry4nb4y/research/blob/master/papers/bay_thesis.pdf) search of a supercomputer database for neutrinos arriving in correlation with extra-galactic explosions.  [**Paper**](https://arxiv.org/abs/1412.6510) describing an unbinned maximum likelihood analysis. [**Paper**](https://arxiv.org/abs/1803.05390) describing machine techniques for neutrino experiments.  [**Paper**](https://www.science.org/doi/pdf/10.1126/science.abg3395) describing recent IceCube results.<br><br>
+
